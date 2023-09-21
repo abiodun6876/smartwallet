@@ -77,7 +77,7 @@ function RegisterPage() {
           Register
         </Link>
       </RegisterButton>
-      <p>Already have an account? <Link to="/Login">Login</Link></p>
+      <p>Already have an account? <Link to="/LoginPage">Login</Link></p>
     </CreateAccountContainer>
   );
 }
